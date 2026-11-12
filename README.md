@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/cutest-picture-01/bangfadli121-arch/cutest-picture-01-entry-muhammad-fadli/rank.svg)](https://make.fun/bounty/cutest-picture-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=cutest-picture-01)
 [![reward](https://make.fun/badge/cutest-picture-01/bangfadli121-arch/cutest-picture-01-entry-muhammad-fadli/reward.svg)](https://make.fun/bounty/cutest-picture-01?utm_source=github&utm_medium=readme&utm_campaign=cutest-picture-01)
 
-A program that draws one cute picture to /output/entry.png — a chubby baby red panda under a pastel moon — for make.fun's cutest-picture-01 bounty.
+A program that draws one cute picture to /output/entry.png — a cream kitten with big blue eyes hugging a tiny sleeping chick — for make.fun's cutest-picture-01 bounty.
 
 ## Run it
 
